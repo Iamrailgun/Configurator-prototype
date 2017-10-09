@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.691,C:\Users\Roman\Desktop\Projects\delphi\Configurator\MainUnit.dfm=C:\Users\Roman\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,C:\Users\Roman\Desktop\Projects\delphi\Configurator\MainUnit.pas=C:\Users\Roman\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.681,C:\Users\Roman\Desktop\Projects\delphi\Configurator\Сonfigurator.dproj=C:\Users\Roman\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,=C:\Users\Roman\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.10.09 22:22:18.492,=C:\Users\Roman\Desktop\Projects\delphi\Configurator\Unit2.pas</Transaction>
+    <Transaction>2017.10.09 22:22:56.796,C:\Users\Roman\Desktop\Projects\delphi\Configurator\ViewDbData.pas=C:\Users\Roman\Desktop\Projects\delphi\Configurator\Unit2.pas</Transaction>
+    <Transaction>2017.10.09 22:22:56.796,C:\Users\Roman\Desktop\Projects\delphi\Configurator\ViewDbData.dfm=C:\Users\Roman\Desktop\Projects\delphi\Configurator\Unit2.dfm</Transaction>
+    <Transaction>2017.10.09 22:25:11.335,=C:\Users\Roman\Desktop\Projects\delphi\Configurator\Unit3.pas</Transaction>
+    <Transaction>2017.10.09 22:25:33.105,C:\Users\Roman\Desktop\Projects\delphi\Configurator\AddDataToDb.pas=C:\Users\Roman\Desktop\Projects\delphi\Configurator\Unit3.pas</Transaction>
+    <Transaction>2017.10.09 22:25:33.105,C:\Users\Roman\Desktop\Projects\delphi\Configurator\AddDataToDb.dfm=C:\Users\Roman\Desktop\Projects\delphi\Configurator\Unit3.dfm</Transaction>
+    <Transaction>2017.10.09 22:26:05.681,=C:\Users\Roman\Desktop\Projects\delphi\Configurator\Unit4.pas</Transaction>
+    <Transaction>2017.10.09 22:26:23.833,C:\Users\Roman\Desktop\Projects\delphi\Configurator\RemoveDataFromDb.pas=C:\Users\Roman\Desktop\Projects\delphi\Configurator\Unit4.pas</Transaction>
+    <Transaction>2017.10.09 22:26:23.833,C:\Users\Roman\Desktop\Projects\delphi\Configurator\RemoveDataFromDb.dfm=C:\Users\Roman\Desktop\Projects\delphi\Configurator\Unit4.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
